@@ -1,3 +1,4 @@
+👾 Welcome to INJUcloud!
 <p id="hitokoto">:D 获取中...</p>
 <script>
     fetch('https://v1.hitokoto.cn')
